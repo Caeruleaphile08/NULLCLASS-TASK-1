@@ -29,7 +29,7 @@ The script will load the pre-trained tokenizer and model, translate sentences fr
   
 # Dataset 
 
-The dataset used for translating English to French is loaded from a CSV file containing English and French parallel corpus. You can find the dataset [here]([link_to_dataset](https://www.kaggle.com/datasets/adewoleakorede/english-french-translation)).
+The dataset used for translating English to French is loaded from a CSV file containing English and French parallel corpus. You can find the dataset [here]([https://www.kaggle.com/datasets/adewoleakorede/english-french-translation]).
 
 
 # Contributing
